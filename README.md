@@ -1,3 +1,2 @@
-Starting the readme
-
-basic implementation is index.html starting
+basic implementation of index.html
+starting branch
